@@ -1,7 +1,7 @@
 # Cars Rentals 🚗 
 API Restful to rent cars
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 👨‍💻
 - Node.js
 - Typescript
 - Docker
