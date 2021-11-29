@@ -1,4 +1,4 @@
-# 🚗 Cars Rentals
+# Cars Rentals 🚗 
 API Restful to rent cars
 
 ## Funcionalidades
@@ -141,4 +141,4 @@ API Restful to rent cars
 - O usuário deve estar autenticado para visualizar os seus aluguéis.
 
 ## DB Diagram
-!(Diagrama do banco de dados)[./diagram.png]
+![Diagrama do banco de dados](./diagram.png)
